@@ -1,0 +1,7 @@
+html,body,div,h1,h2,h3,blockquote,p,ul,li,img,a,footer,cite,hr,strong{
+	margin:0;
+	padding:0;
+}
+body{
+  margin-top:60px;
+}
